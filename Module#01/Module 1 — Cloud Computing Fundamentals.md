@@ -1,5 +1,3 @@
-Absolutely. Based on the **Multi-Cloud Computing course structure you defined**, **Module 1 is Cloud Computing Fundamentals**. The goal is to make students understand the *concept of cloud first*, before introducing AWS, Azure, and GCP services. Your course roadmap also establishes the learning approach of **“Learn the concept once → understand how AWS, Azure and GCP implement it.”** 
-
 # Module 1 — Cloud Computing Fundamentals
 
 ## 🎯 Module Objective
